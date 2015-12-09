@@ -1,4 +1,4 @@
-var host = '';
+var host = 'https://6-fake-slack-adv-christopherjkim.c9users.io';
 var sendRoute = host + '/send';
 var messagesRoute = host + '/messages';
 
